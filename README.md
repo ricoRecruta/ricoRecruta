@@ -1,4 +1,3 @@
-## Bem-vindo(a) ao meu perfil!
 
 # 🧑🏽‍💻 João Miguel
 
