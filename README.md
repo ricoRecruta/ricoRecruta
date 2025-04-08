@@ -1,4 +1,3 @@
-
 # 🧑🏽‍💻 João Miguel
 
 **`Desenvolvedor`**
@@ -108,4 +107,3 @@ Me chamo João Miguel Santos, tenho 19 anos e sou natural da Bahia. Atualmente, 
 />
   
 </p>
-
