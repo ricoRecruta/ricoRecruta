@@ -95,14 +95,14 @@ Me chamo João Miguel Santos, tenho 19 anos e sou natural da Bahia. Atualmente, 
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180px" 
+    height="150px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ricoRecruta&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
     />
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoRecruta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
 />
   
