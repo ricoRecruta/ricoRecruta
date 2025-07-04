@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Miguel Santos, tenho 19 anos e sou natural da Bahia. Atualmente, estou cursando o curso de Ciências da Computação na UFPB. 
+Me chamo João Miguel Santos, tenho 19 anos e sou natural da Bahia. Atualmente, estou cursando o curso de Ciências da Computação na UFPB. Focado na primeira vaga Dev.
 
 ### Para mais formas de contato, segue minhas redes abaixo!
  
